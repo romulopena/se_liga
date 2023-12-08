@@ -1,0 +1,23 @@
+.corpo{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+}
+
+p{
+    color: green;
+    font-size: 20px;
+}
+
+#link{
+    color: red;
+    text-decoration: none;
+}
+
+#link:hover{
+    color: gold;
+    font-size: 15px;
+}
