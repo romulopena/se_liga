@@ -12,12 +12,11 @@ p{
     font-size: 20px;
 }
 
-#link{
-    color: red;
-    text-decoration: none;
+#lista{
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 24px;
+    color: darkorchid;
+    border: dotted yellow 5px;
 }
 
-#link:hover{
-    color: gold;
-    font-size: 15px;
-}
